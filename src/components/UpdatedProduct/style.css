@@ -1,0 +1,7 @@
+
+.product-details {
+     height: 0px;
+}
+.product-details.active {
+    height: 200px;
+}
